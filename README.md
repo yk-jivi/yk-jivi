@@ -140,19 +140,6 @@
 
 ---
 
-### 📊 Статистика активности (GitHub Activity)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=yk-jivi&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" alt="GitHub Stats" height="165" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yk-jivi&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" height="165" />
-</div>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=yk-jivi&theme=tokyonight&hide_border=true" alt="GitHub Streak" />
-</p>
-
----
-
 ### 📬 Связаться со мной (Contacts)
 
 <p align="center">
