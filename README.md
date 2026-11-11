@@ -136,6 +136,36 @@
       </p>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🔷 <a href="https://github.com/yk-jivi/csharp-dotnet-and-patterns">csharp-dotnet-and-patterns</a></h3>
+      <p><b>Архив проектов на C# / .NET, десктопное приложение BookStore (WPF) и паттерны GoF.</b></p>
+      <ul>
+        <li><b>ООП и C#:</b> Коллекции, обобщения, LINQ, события, сериализация.</li>
+        <li><b>WPF:</b> Верстка на XAML, привязка данных (Data Binding), стили и валидация.</li>
+        <li><b>Архитектура:</b> Порождающие, структурные и поведенческие паттерны GoF.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white" />
+        <img src="https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white" />
+        <img src="https://img.shields.io/badge/WPF-blue?style=flat-square" />
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>⚙️ <a href="https://github.com/yk-jivi/algorithms-and-cs-fundamentals">algorithms-and-cs-fundamentals</a></h3>
+      <p><b>Фундаментальные алгоритмы, структуры данных на C++, Python и криптография.</b></p>
+      <ul>
+        <li><b>Структуры данных:</b> Списки, деревья BST, стеки, очереди, хэш-таблицы на C++.</li>
+        <li><b>Оптимизация:</b> Динамическое программирование, жадные алгоритмы, графы, TSP.</li>
+        <li><b>Python & Безопасность:</b> Скрипты на Python и шифры классической криптографии.</li>
+      </ul>
+      <p>
+        <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Algorithms-orange?style=flat-square" />
+      </p>
+    </td>
+  </tr>
 </table>
 
 ---
