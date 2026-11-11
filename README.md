@@ -156,10 +156,7 @@
 ### 📬 Связаться со мной (Contacts)
 
 <p align="center">
-  <a href="mailto:yuliya18@gmail.com"><img src="https://img.shields.io/badge/Email-yuliya18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://t.me/yuliash18"><img src="https://img.shields.io/badge/Telegram-@yuliash18-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <a href="mailto:shmatovayuliya18@gmail.com"><img src="https://img.shields.io/badge/Email-shmatovayuliya18%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://github.com/yk-jivi"><img src="https://img.shields.io/badge/GitHub-yk--jivi-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
 </p>
-
-<div align="center">
-  <sub>⭐ Профиль оформлен и структурирован при содействии Antigravity. Спасибо за интерес к моему коду!</sub>
-</div>
